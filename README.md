@@ -42,7 +42,7 @@ Soy ingeniero con más de 7 años de experiencia desarrollando soluciones empres
 
 ## 📫 Contacto
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/ricardo-jaragaspar/)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ricardo-jara-gaspar-b7a515265/)  
 - ✉️ rjaragaspar@gmail.com  
 - 📍 Lima, Perú
 
