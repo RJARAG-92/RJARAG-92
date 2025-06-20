@@ -18,10 +18,10 @@ Soy ingeniero con más de 7 años de experiencia desarrollando soluciones empres
 ## 📘 Repositorios destacados
 
 ### [`poo-dotnet`](https://github.com/RJARAG-92/poo-dotnet)
-📚 Ejemplos de los 4 pilares de la Programación Orientada a Objetos en C# con casos empresariales aplicados.
+📚 Ejemplos de los 4 pilares de la Programación Orientada a Objetos (POO) en C# con casos empresariales aplicados.
 
 ### [`principios-disenio-dotnet`](https://github.com/RJARAG-92/principios-disenio-dotnet)
-💡 Repositorio con ejemplos prácticos en .NET aplicando principios SOLID en contextos empresariales como facturación, inventario y reportes.
+🧩 Ejemplos en .NET aplicando principios SOLID y complementarios (DRY, KISS, YAGNI, SoC) con casos empresariales reales.
 
 ### [`patrones-diseno-dotnet`](https://github.com/RJARAG-92/patrones-disenio-dotnet)
 🧠 Implementaciones limpias y educativas de los principales patrones de diseño (Creacionales, Estructurales y Comportamiento).
