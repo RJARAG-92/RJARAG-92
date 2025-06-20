@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Ricardo Jara
 
-<!--
-**RJARAG-92/RJARAG-92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💼 Backend Developer | Arquitectura de Software | .NET Core | C#
 
-Here are some ideas to get you started:
+Soy ingeniero con más de 7 años de experiencia desarrollando soluciones empresariales utilizando .NET, aplicando principios SOLID, Clean Architecture y buenas prácticas de diseño. Me apasiona la calidad del código, la eficiencia del software y la enseñanza técnica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologías principales
+
+- Lenguajes: **C#**, **SQL**, JavaScript
+- Frameworks: **.NET Core**, **Entity Framework Core**, **ASP.NET Web API**
+- Arquitectura: **Clean Architecture**, **DDD**, **CQRS**, **SOLID**, **POO**
+- Herramientas: Visual Studio, Git, Azure DevOps, GitHub Actions
+
+---
+
+## 📘 Repositorios destacados
+
+### [`poo-dotnet`](https://github.com/RJARAG-92/poo-dotnet)
+📚 Ejemplos de los 4 pilares de la Programación Orientada a Objetos en C# con casos empresariales aplicados.
+
+### [`patrones-diseno-dotnet`](https://github.com/RJARAG-92/patrones-diseno-dotnet)
+🧠 Implementaciones limpias y educativas de los principales patrones de diseño (Creacionales, Estructurales y Comportamiento).
+
+### [`Tektonlabs.Ecommerce`](https://github.com/RJARAG-92/Tektonlabs.Ecommerce)
+🛒 Reto técnico para ecommerce usando Arquitectura Limpia, SOLID y capas desacopladas.
+
+### [`api-pacagroup-ecommerce`](https://github.com/RJARAG-92/api-pacagroup-ecommerce)
+🔧 Arquitectura de aplicaciones empresariales basada en .NET 8, orientada a microservicios.
+
+---
+
+## 🎯 Intereses actuales
+
+- Arquitectura de Software Empresarial
+- Pruebas automatizadas (xUnit, Moq)
+- Optimización de APIs y sistemas distribuidos
+- Publicación de contenido técnico y mentoría
+
+---
+
+## 📫 Contacto
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ricardo-jaragaspar/)  
+- ✉️ rjaragaspar@gmail.com  
+- 📍 Lima, Perú
+
+---
+
+> "El buen diseño no es solo cómo se ve, sino cómo funciona y se mantiene en el tiempo."
+
+Gracias por visitar mi perfil 🙌
