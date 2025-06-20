@@ -20,7 +20,7 @@ Soy ingeniero con más de 7 años de experiencia desarrollando soluciones empres
 ### [`poo-dotnet`](https://github.com/RJARAG-92/poo-dotnet)
 📚 Ejemplos de los 4 pilares de la Programación Orientada a Objetos en C# con casos empresariales aplicados.
 
-### [`patrones-diseno-dotnet`](https://github.com/RJARAG-92/patrones-diseno-dotnet)
+### [`patrones-diseno-dotnet`](https://github.com/RJARAG-92/patrones-disenio-dotnet)
 🧠 Implementaciones limpias y educativas de los principales patrones de diseño (Creacionales, Estructurales y Comportamiento).
 
 ### [`Tektonlabs.Ecommerce`](https://github.com/RJARAG-92/Tektonlabs.Ecommerce)
