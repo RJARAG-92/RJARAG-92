@@ -1,3 +1,5 @@
+![Banner principal](./banner.png)
+
 # 👋 ¡Hola! Soy Ricardo Jara
 
 ### 💼 Backend Developer | Arquitectura de Software | .NET Core | C#
