@@ -23,7 +23,7 @@ Soy ingeniero con más de 7 años de experiencia desarrollando soluciones empres
 ### [`principios-disenio-dotnet`](https://github.com/RJARAG-92/principios-disenio-dotnet)
 🧩 Ejemplos en .NET aplicando principios SOLID y complementarios (DRY, KISS, YAGNI, SoC) con casos empresariales reales.
 
-### [`patrones-disenio-dotnet`](https://github.com/RJARAG-92/patrones-disenio-gof-dotnet)
+### [`patrones-disenio-gof-dotnet`](https://github.com/RJARAG-92/patrones-disenio-gof-dotnet)
 🧠 Implementaciones limpias y educativas de los principales patrones de diseño orientado a objetos, agrupados según la clasificación clásica de la Gang of Four (GoF)
 
 ### [`Tektonlabs.Ecommerce`](https://github.com/RJARAG-92/Tektonlabs.Ecommerce)
